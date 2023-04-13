@@ -1,0 +1,5 @@
+POST http://localhost:8080/kafka/send
+Content-Type: text/plain
+
+안녕하세요. kafka.
+###
