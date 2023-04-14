@@ -3,3 +3,6 @@ Content-Type: text/plain
 
 안녕하세요. kafka.
 ###
+
+POST  http://localhost:8080/users?id=1&name=홍길동
+###
