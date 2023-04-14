@@ -12,3 +12,8 @@ Content-Type: text/plain
 
 안녕하세요. kafka.
 ```
+
+## branch name : jsonSer 에 JsonDeSerializer 기능 추가.
+java object 를 direct 로 메시지 송/수신하는 샘플입니다. 
+
+> 해당 기능을 위해서는 application.yml 파일에 consumer 에 설정 내용이 중요 사항입니다. 
